@@ -1,0 +1,12 @@
+Hello World 
+Hello Hyderabad 
+Hello Kommi
+Hello Nellore 
+DevOps work:
+ 1. Create project
+ 2. Push it to Github:
+    Steps: Github - create a new project - clone this project
+           CLI : Create project via mvn archetype:generate -> copy all files in cloned project 
+           cloned project > git add. 
+                            git commit -m "Adding repository files"
+                            git push origin branch_name
